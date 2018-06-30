@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun 16 22:51:02 2018
 
-@author: G702394
-"""
 import pandas as pd
 
 Data = pd.read_csv("LGD_DATA.csv")
